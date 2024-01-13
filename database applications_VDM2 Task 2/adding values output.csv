@@ -1,0 +1,82 @@
+coffee_id,shop_id,supplier_id,coffee_name,price_per_pound,shop_id,shop_name,city,state,employee_id,first_name,last_name,hire_date,job_title,shop_id,supplier_id,company_name,country,sales_contact_name,email
+203,3,103,Sumatra,12.35,1,starbucks,seattle,wa,12,samuel,xu,2021-04-06,barista,3,101,foodsCo,canada,amanda,amanda@foodsco.com
+202,2,102,liberica,11.00,1,starbucks,seattle,wa,12,samuel,xu,2021-04-06,barista,3,101,foodsCo,canada,amanda,amanda@foodsco.com
+201,1,101,arabica,10.20,1,starbucks,seattle,wa,12,samuel,xu,2021-04-06,barista,3,101,foodsCo,canada,amanda,amanda@foodsco.com
+203,3,103,Sumatra,12.35,2,latteCo,honolulu,hi,12,samuel,xu,2021-04-06,barista,3,101,foodsCo,canada,amanda,amanda@foodsco.com
+202,2,102,liberica,11.00,2,latteCo,honolulu,hi,12,samuel,xu,2021-04-06,barista,3,101,foodsCo,canada,amanda,amanda@foodsco.com
+201,1,101,arabica,10.20,2,latteCo,honolulu,hi,12,samuel,xu,2021-04-06,barista,3,101,foodsCo,canada,amanda,amanda@foodsco.com
+203,3,103,Sumatra,12.35,3,coffee+T,alexandria,va,12,samuel,xu,2021-04-06,barista,3,101,foodsCo,canada,amanda,amanda@foodsco.com
+202,2,102,liberica,11.00,3,coffee+T,alexandria,va,12,samuel,xu,2021-04-06,barista,3,101,foodsCo,canada,amanda,amanda@foodsco.com
+201,1,101,arabica,10.20,3,coffee+T,alexandria,va,12,samuel,xu,2021-04-06,barista,3,101,foodsCo,canada,amanda,amanda@foodsco.com
+203,3,103,Sumatra,12.35,1,starbucks,seattle,wa,11,sara,bailey,2021-02-22,cashier,2,101,foodsCo,canada,amanda,amanda@foodsco.com
+202,2,102,liberica,11.00,1,starbucks,seattle,wa,11,sara,bailey,2021-02-22,cashier,2,101,foodsCo,canada,amanda,amanda@foodsco.com
+201,1,101,arabica,10.20,1,starbucks,seattle,wa,11,sara,bailey,2021-02-22,cashier,2,101,foodsCo,canada,amanda,amanda@foodsco.com
+203,3,103,Sumatra,12.35,2,latteCo,honolulu,hi,11,sara,bailey,2021-02-22,cashier,2,101,foodsCo,canada,amanda,amanda@foodsco.com
+202,2,102,liberica,11.00,2,latteCo,honolulu,hi,11,sara,bailey,2021-02-22,cashier,2,101,foodsCo,canada,amanda,amanda@foodsco.com
+201,1,101,arabica,10.20,2,latteCo,honolulu,hi,11,sara,bailey,2021-02-22,cashier,2,101,foodsCo,canada,amanda,amanda@foodsco.com
+203,3,103,Sumatra,12.35,3,coffee+T,alexandria,va,11,sara,bailey,2021-02-22,cashier,2,101,foodsCo,canada,amanda,amanda@foodsco.com
+202,2,102,liberica,11.00,3,coffee+T,alexandria,va,11,sara,bailey,2021-02-22,cashier,2,101,foodsCo,canada,amanda,amanda@foodsco.com
+201,1,101,arabica,10.20,3,coffee+T,alexandria,va,11,sara,bailey,2021-02-22,cashier,2,101,foodsCo,canada,amanda,amanda@foodsco.com
+203,3,103,Sumatra,12.35,1,starbucks,seattle,wa,10,katy,li,2021-01-01,barista,1,101,foodsCo,canada,amanda,amanda@foodsco.com
+202,2,102,liberica,11.00,1,starbucks,seattle,wa,10,katy,li,2021-01-01,barista,1,101,foodsCo,canada,amanda,amanda@foodsco.com
+201,1,101,arabica,10.20,1,starbucks,seattle,wa,10,katy,li,2021-01-01,barista,1,101,foodsCo,canada,amanda,amanda@foodsco.com
+203,3,103,Sumatra,12.35,2,latteCo,honolulu,hi,10,katy,li,2021-01-01,barista,1,101,foodsCo,canada,amanda,amanda@foodsco.com
+202,2,102,liberica,11.00,2,latteCo,honolulu,hi,10,katy,li,2021-01-01,barista,1,101,foodsCo,canada,amanda,amanda@foodsco.com
+201,1,101,arabica,10.20,2,latteCo,honolulu,hi,10,katy,li,2021-01-01,barista,1,101,foodsCo,canada,amanda,amanda@foodsco.com
+203,3,103,Sumatra,12.35,3,coffee+T,alexandria,va,10,katy,li,2021-01-01,barista,1,101,foodsCo,canada,amanda,amanda@foodsco.com
+202,2,102,liberica,11.00,3,coffee+T,alexandria,va,10,katy,li,2021-01-01,barista,1,101,foodsCo,canada,amanda,amanda@foodsco.com
+201,1,101,arabica,10.20,3,coffee+T,alexandria,va,10,katy,li,2021-01-01,barista,1,101,foodsCo,canada,amanda,amanda@foodsco.com
+203,3,103,Sumatra,12.35,1,starbucks,seattle,wa,12,samuel,xu,2021-04-06,barista,3,102,shipFood,"united states of america",cole,cole@shipfood.com
+202,2,102,liberica,11.00,1,starbucks,seattle,wa,12,samuel,xu,2021-04-06,barista,3,102,shipFood,"united states of america",cole,cole@shipfood.com
+201,1,101,arabica,10.20,1,starbucks,seattle,wa,12,samuel,xu,2021-04-06,barista,3,102,shipFood,"united states of america",cole,cole@shipfood.com
+203,3,103,Sumatra,12.35,2,latteCo,honolulu,hi,12,samuel,xu,2021-04-06,barista,3,102,shipFood,"united states of america",cole,cole@shipfood.com
+202,2,102,liberica,11.00,2,latteCo,honolulu,hi,12,samuel,xu,2021-04-06,barista,3,102,shipFood,"united states of america",cole,cole@shipfood.com
+201,1,101,arabica,10.20,2,latteCo,honolulu,hi,12,samuel,xu,2021-04-06,barista,3,102,shipFood,"united states of america",cole,cole@shipfood.com
+203,3,103,Sumatra,12.35,3,coffee+T,alexandria,va,12,samuel,xu,2021-04-06,barista,3,102,shipFood,"united states of america",cole,cole@shipfood.com
+202,2,102,liberica,11.00,3,coffee+T,alexandria,va,12,samuel,xu,2021-04-06,barista,3,102,shipFood,"united states of america",cole,cole@shipfood.com
+201,1,101,arabica,10.20,3,coffee+T,alexandria,va,12,samuel,xu,2021-04-06,barista,3,102,shipFood,"united states of america",cole,cole@shipfood.com
+203,3,103,Sumatra,12.35,1,starbucks,seattle,wa,11,sara,bailey,2021-02-22,cashier,2,102,shipFood,"united states of america",cole,cole@shipfood.com
+202,2,102,liberica,11.00,1,starbucks,seattle,wa,11,sara,bailey,2021-02-22,cashier,2,102,shipFood,"united states of america",cole,cole@shipfood.com
+201,1,101,arabica,10.20,1,starbucks,seattle,wa,11,sara,bailey,2021-02-22,cashier,2,102,shipFood,"united states of america",cole,cole@shipfood.com
+203,3,103,Sumatra,12.35,2,latteCo,honolulu,hi,11,sara,bailey,2021-02-22,cashier,2,102,shipFood,"united states of america",cole,cole@shipfood.com
+202,2,102,liberica,11.00,2,latteCo,honolulu,hi,11,sara,bailey,2021-02-22,cashier,2,102,shipFood,"united states of america",cole,cole@shipfood.com
+201,1,101,arabica,10.20,2,latteCo,honolulu,hi,11,sara,bailey,2021-02-22,cashier,2,102,shipFood,"united states of america",cole,cole@shipfood.com
+203,3,103,Sumatra,12.35,3,coffee+T,alexandria,va,11,sara,bailey,2021-02-22,cashier,2,102,shipFood,"united states of america",cole,cole@shipfood.com
+202,2,102,liberica,11.00,3,coffee+T,alexandria,va,11,sara,bailey,2021-02-22,cashier,2,102,shipFood,"united states of america",cole,cole@shipfood.com
+201,1,101,arabica,10.20,3,coffee+T,alexandria,va,11,sara,bailey,2021-02-22,cashier,2,102,shipFood,"united states of america",cole,cole@shipfood.com
+203,3,103,Sumatra,12.35,1,starbucks,seattle,wa,10,katy,li,2021-01-01,barista,1,102,shipFood,"united states of america",cole,cole@shipfood.com
+202,2,102,liberica,11.00,1,starbucks,seattle,wa,10,katy,li,2021-01-01,barista,1,102,shipFood,"united states of america",cole,cole@shipfood.com
+201,1,101,arabica,10.20,1,starbucks,seattle,wa,10,katy,li,2021-01-01,barista,1,102,shipFood,"united states of america",cole,cole@shipfood.com
+203,3,103,Sumatra,12.35,2,latteCo,honolulu,hi,10,katy,li,2021-01-01,barista,1,102,shipFood,"united states of america",cole,cole@shipfood.com
+202,2,102,liberica,11.00,2,latteCo,honolulu,hi,10,katy,li,2021-01-01,barista,1,102,shipFood,"united states of america",cole,cole@shipfood.com
+201,1,101,arabica,10.20,2,latteCo,honolulu,hi,10,katy,li,2021-01-01,barista,1,102,shipFood,"united states of america",cole,cole@shipfood.com
+203,3,103,Sumatra,12.35,3,coffee+T,alexandria,va,10,katy,li,2021-01-01,barista,1,102,shipFood,"united states of america",cole,cole@shipfood.com
+202,2,102,liberica,11.00,3,coffee+T,alexandria,va,10,katy,li,2021-01-01,barista,1,102,shipFood,"united states of america",cole,cole@shipfood.com
+201,1,101,arabica,10.20,3,coffee+T,alexandria,va,10,katy,li,2021-01-01,barista,1,102,shipFood,"united states of america",cole,cole@shipfood.com
+203,3,103,Sumatra,12.35,1,starbucks,seattle,wa,12,samuel,xu,2021-04-06,barista,3,103,gardenersCo,egypt,maize,maize@gardenersco.com
+202,2,102,liberica,11.00,1,starbucks,seattle,wa,12,samuel,xu,2021-04-06,barista,3,103,gardenersCo,egypt,maize,maize@gardenersco.com
+201,1,101,arabica,10.20,1,starbucks,seattle,wa,12,samuel,xu,2021-04-06,barista,3,103,gardenersCo,egypt,maize,maize@gardenersco.com
+203,3,103,Sumatra,12.35,2,latteCo,honolulu,hi,12,samuel,xu,2021-04-06,barista,3,103,gardenersCo,egypt,maize,maize@gardenersco.com
+202,2,102,liberica,11.00,2,latteCo,honolulu,hi,12,samuel,xu,2021-04-06,barista,3,103,gardenersCo,egypt,maize,maize@gardenersco.com
+201,1,101,arabica,10.20,2,latteCo,honolulu,hi,12,samuel,xu,2021-04-06,barista,3,103,gardenersCo,egypt,maize,maize@gardenersco.com
+203,3,103,Sumatra,12.35,3,coffee+T,alexandria,va,12,samuel,xu,2021-04-06,barista,3,103,gardenersCo,egypt,maize,maize@gardenersco.com
+202,2,102,liberica,11.00,3,coffee+T,alexandria,va,12,samuel,xu,2021-04-06,barista,3,103,gardenersCo,egypt,maize,maize@gardenersco.com
+201,1,101,arabica,10.20,3,coffee+T,alexandria,va,12,samuel,xu,2021-04-06,barista,3,103,gardenersCo,egypt,maize,maize@gardenersco.com
+203,3,103,Sumatra,12.35,1,starbucks,seattle,wa,11,sara,bailey,2021-02-22,cashier,2,103,gardenersCo,egypt,maize,maize@gardenersco.com
+202,2,102,liberica,11.00,1,starbucks,seattle,wa,11,sara,bailey,2021-02-22,cashier,2,103,gardenersCo,egypt,maize,maize@gardenersco.com
+201,1,101,arabica,10.20,1,starbucks,seattle,wa,11,sara,bailey,2021-02-22,cashier,2,103,gardenersCo,egypt,maize,maize@gardenersco.com
+203,3,103,Sumatra,12.35,2,latteCo,honolulu,hi,11,sara,bailey,2021-02-22,cashier,2,103,gardenersCo,egypt,maize,maize@gardenersco.com
+202,2,102,liberica,11.00,2,latteCo,honolulu,hi,11,sara,bailey,2021-02-22,cashier,2,103,gardenersCo,egypt,maize,maize@gardenersco.com
+201,1,101,arabica,10.20,2,latteCo,honolulu,hi,11,sara,bailey,2021-02-22,cashier,2,103,gardenersCo,egypt,maize,maize@gardenersco.com
+203,3,103,Sumatra,12.35,3,coffee+T,alexandria,va,11,sara,bailey,2021-02-22,cashier,2,103,gardenersCo,egypt,maize,maize@gardenersco.com
+202,2,102,liberica,11.00,3,coffee+T,alexandria,va,11,sara,bailey,2021-02-22,cashier,2,103,gardenersCo,egypt,maize,maize@gardenersco.com
+201,1,101,arabica,10.20,3,coffee+T,alexandria,va,11,sara,bailey,2021-02-22,cashier,2,103,gardenersCo,egypt,maize,maize@gardenersco.com
+203,3,103,Sumatra,12.35,1,starbucks,seattle,wa,10,katy,li,2021-01-01,barista,1,103,gardenersCo,egypt,maize,maize@gardenersco.com
+202,2,102,liberica,11.00,1,starbucks,seattle,wa,10,katy,li,2021-01-01,barista,1,103,gardenersCo,egypt,maize,maize@gardenersco.com
+201,1,101,arabica,10.20,1,starbucks,seattle,wa,10,katy,li,2021-01-01,barista,1,103,gardenersCo,egypt,maize,maize@gardenersco.com
+203,3,103,Sumatra,12.35,2,latteCo,honolulu,hi,10,katy,li,2021-01-01,barista,1,103,gardenersCo,egypt,maize,maize@gardenersco.com
+202,2,102,liberica,11.00,2,latteCo,honolulu,hi,10,katy,li,2021-01-01,barista,1,103,gardenersCo,egypt,maize,maize@gardenersco.com
+201,1,101,arabica,10.20,2,latteCo,honolulu,hi,10,katy,li,2021-01-01,barista,1,103,gardenersCo,egypt,maize,maize@gardenersco.com
+203,3,103,Sumatra,12.35,3,coffee+T,alexandria,va,10,katy,li,2021-01-01,barista,1,103,gardenersCo,egypt,maize,maize@gardenersco.com
+202,2,102,liberica,11.00,3,coffee+T,alexandria,va,10,katy,li,2021-01-01,barista,1,103,gardenersCo,egypt,maize,maize@gardenersco.com
+201,1,101,arabica,10.20,3,coffee+T,alexandria,va,10,katy,li,2021-01-01,barista,1,103,gardenersCo,egypt,maize,maize@gardenersco.com
